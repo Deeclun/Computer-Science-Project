@@ -12,3 +12,17 @@ D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resou
 D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csproj.GenerateResource.Cache
 D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
 D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csprojResolveAssemblyReference.cache
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\MainWindow.g.cs
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\App.g.cs
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.cache
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.lref
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\MainWindow.baml
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.g.resources
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resources.resources
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csproj.GenerateResource.Cache
