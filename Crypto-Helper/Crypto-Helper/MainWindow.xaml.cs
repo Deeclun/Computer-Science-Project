@@ -22,6 +22,7 @@ namespace Crypto_Helper
     {
         public MainWindow()
         {
+            MessageBox.Show("dfjhajfd");
             InitializeComponent();
         }
     }
