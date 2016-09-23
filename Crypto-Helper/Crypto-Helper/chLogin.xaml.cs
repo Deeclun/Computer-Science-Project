@@ -22,8 +22,13 @@ namespace Crypto_Helper
     {
         public MainWindow()
         {
-            MessageBox.Show("dfjhajfd");
             InitializeComponent();
+        }
+
+        protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e)
+        {
+            base.OnMouseLeftButtonDown(e);
+            DragMove();
         }
     }
 }

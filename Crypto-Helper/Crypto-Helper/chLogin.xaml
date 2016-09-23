@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Crypto_Helper"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Crypto-Helper : Login" Height="275.49" Width="302.451" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Background="Transparent">
     <Grid>
-        
+        <Grid HorizontalAlignment="Left" Height="255" Margin="10,10,0,0" VerticalAlignment="Top" Width="282" Background="White"/>
     </Grid>
 </Window>
