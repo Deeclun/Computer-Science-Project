@@ -1,0 +1,16 @@
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Cryptography-Helper.csprojResolveAssemblyReference.cache
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\chHome.g.cs
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.g.cs
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\App.g.cs
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.cache
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.lref
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.pdb
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\chHome.baml
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.baml
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.g.resources
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resources.resources
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Cryptography-Helper.csproj.GenerateResource.Cache
