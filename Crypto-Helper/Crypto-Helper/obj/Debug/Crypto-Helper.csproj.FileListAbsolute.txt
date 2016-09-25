@@ -26,3 +26,6 @@ C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-H
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.g.cs
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.baml
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb

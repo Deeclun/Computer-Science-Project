@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto-Helper", "Crypto-Helper\Crypto-Helper.csproj", "{3D4AD5B8-DF95-4F70-9FAF-D809659AE867}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography-Helper", "Crypto-Helper\Cryptography-Helper.csproj", "{3D4AD5B8-DF95-4F70-9FAF-D809659AE867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
