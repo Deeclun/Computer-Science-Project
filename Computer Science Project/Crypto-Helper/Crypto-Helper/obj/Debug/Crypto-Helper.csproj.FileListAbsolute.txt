@@ -1,0 +1,31 @@
+D:\OneDrive\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+D:\OneDrive\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe
+D:\OneDrive\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.pdb
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csprojResolveAssemblyReference.cache
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\App.g.cs
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.cache
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.lref
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\MainWindow.baml
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.g.resources
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resources.resources
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csproj.GenerateResource.Cache
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+D:\OneDrive\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csprojResolveAssemblyReference.cache
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\App.g.cs
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.cache
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.lref
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.g.resources
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resources.resources
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.csproj.GenerateResource.Cache
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.g.cs
+C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.baml
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe.config
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.exe
+N:\Computing\Computer Science Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.pdb
