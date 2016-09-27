@@ -7,7 +7,6 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
-using System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
@@ -46,5 +45,25 @@ namespace Crypto_Helper
             this.WindowState = WindowState.Minimized;
         }
         #endregion
+
+        #region Capital Textbox
+        private void txtUsername_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            string text = txtUsername.Text;
+        
+            
+            char c = text[text.Length - 1];
+
+            string newText = txtUsername.Text + c;
+            newText = newText.Substring(0, newText.Length - 1);
+            txtUsername.Text = newText.ToUpper();
+        }
+        #endregion
+
+
+        private void txtPassword_TextChanged(object sender, TextChangedEventArgs e)
+        {
+               
+        }
     }
 }

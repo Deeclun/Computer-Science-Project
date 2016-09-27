@@ -20,12 +20,10 @@ C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-H
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.exe
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\bin\Debug\Crypto-Helper.pdb
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Cryptography-Helper.csprojResolveAssemblyReference.cache
-C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chHome.g.cs
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.g.cs
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\App.g.cs
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.cache
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper_MarkupCompile.lref
-C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chHome.baml
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\chLogin.baml
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto-Helper.g.resources
 C:\Users\Declan\Documents\GitHub\Computer-Science-Project\Crypto-Helper\Crypto-Helper\obj\Debug\Crypto_Helper.Properties.Resources.resources
